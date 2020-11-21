@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034038899026",
+    "firebase_url": "https://uts-emasumaya.firebaseio.com",
+    "project_id": "uts-emasumaya",
+    "storage_bucket": "uts-emasumaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034038899026:android:d7e8fb34542098c89aca8b",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.mahasiswa.uts_amub_ti7jm_1711500022_emasumaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034038899026-kh437bjk74bt3qveun225te81a3jqj51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.mahasiswa.uts_amub_ti7jm_1711500022_emasumaya",
+            "certificate_hash": "80f56c945132944f189b933d6c07e115e6eea53c"
+          }
+        },
+        {
+          "client_id": "1034038899026-p71b0p0or46ssu8ltcpdbhflfvkll7oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1O_0NN93WjvcePgGoLja1EOSfQIynVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034038899026-p71b0p0or46ssu8ltcpdbhflfvkll7oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
